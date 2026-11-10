@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tanujnotes/Olauncher/commit/260697336e07cd39afdae1ef257fb8e75621952f",
       "git:hexsha": "260697336e07cd39afdae1ef257fb8e75621952f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tanujnotes/Olauncher/commit/8d1f6c6a684061d3535cbacd85480f22487e7611",
